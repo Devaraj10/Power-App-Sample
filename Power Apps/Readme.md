@@ -1,2 +1,3 @@
 Important Resource used for this app
-1. [https://www.matthewdevaney.com/create-a-dropdown-with-an-other-option-in-power-apps/](./Readme.md Creating a downpdown with a other option) 1
+1. [Creating a dropdown with an 'other' option in Power Apps](https://www.matthewdevaney.com/create-a-dropdown-with-an-other-option-in-power-apps/)
+ 
